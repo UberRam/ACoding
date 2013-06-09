@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ACLib.ArithmeticCoderCS">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIABAApLgAAAAAAABAAAICABABAAAQCAQCAE=</HashCode>
+      <FileName>ArithmeticCoderCS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACLib.AbstractModel">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABQAAAAAgAAAAAQAAAAAAAAAAAAQBAAAAA=</HashCode>
+      <FileName>AbstractModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ACLib.ModelOrder0">
+    <Position X="4.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAQIAQAAA=</HashCode>
+      <FileName>ModelOrder0.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ACLib.ModeE">
+    <Position X="2.5" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>AbstractModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
